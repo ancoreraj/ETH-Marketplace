@@ -6,7 +6,7 @@
 
 
 
-![Home Page](./Readme/b.jpg)
+![Home Page](./Readme/B.jpg)
 #### Home page
-![Transaction](./Readme/a.png)
+![Transaction](./Readme/A.png)
 #### Transaction with metamask
